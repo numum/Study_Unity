@@ -5,16 +5,26 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 637954565290716894
     m_Hash: 1203862131
+=======
+      ticks: 637954558704678641
+    m_Hash: 654322908
+>>>>>>> Stashed changes
   m_LockFileStatus:
     m_FilePath: C:/Users/Administrator/Desktop/Study_Unity/Study_Unity/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 637954565290786689
     m_Hash: 1050907056
+=======
+      ticks: 637954558704688902
+    m_Hash: 3424275368
+>>>>>>> Stashed changes
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
