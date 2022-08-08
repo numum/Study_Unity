@@ -39,6 +39,7 @@
      <Compile Include="Assets\Resources\Study\TopView\Player.cs" />
      <Compile Include="Assets\Resources\Study\MapGenerator\MeshGenerator.cs" />
      <Compile Include="Assets\Resources\Study\MapGenerator\MapGenerator.cs" />
+     <Compile Include="Assets\Resources\Study\LoadImage\ImageLoad.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
