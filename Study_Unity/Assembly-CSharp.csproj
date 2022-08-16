@@ -37,9 +37,19 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Resources\Study\TopView\Player.cs" />
+     <Compile Include="Assets\Resources\Study\LoadImage\ImageLoad.cs" />
      <Compile Include="Assets\Resources\Study\MapGenerator\MeshGenerator.cs" />
      <Compile Include="Assets\Resources\Study\MapGenerator\MapGenerator.cs" />
-     <Compile Include="Assets\Resources\Study\LoadImage\ImageLoad.cs" />
+     <Compile Include="Assets\Resources\Study\TetrisInventory\Script\ItemController.cs" />
+     <Compile Include="Assets\Resources\Study\TetrisInventory\Script\ItemGrid.cs" />
+     <Compile Include="Assets\Resources\Study\TetrisInventory\Script\InventoryBotArea.cs" />
+     <Compile Include="Assets\Resources\Study\TetrisInventory\Script\InventoryTopArea.cs" />
+     <Compile Include="Assets\Resources\Study\TetrisInventory\Script\CanvasController.cs" />
+     <Compile Include="Assets\Resources\Study\TetrisInventory\Script\Item.cs" />
+     <Compile Include="Assets\Resources\Study\TetrisInventory\Script\ItemData.cs" />
+     <Compile Include="Assets\Resources\Study\TetrisInventory\Script\Inventory.cs" />
+     <Compile Include="Assets\Resources\Study\TetrisInventory\Script\Controller.cs" />
+     <Compile Include="Assets\Resources\Study\TetrisInventory\Script\PlayerController.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />

@@ -363,6 +363,16 @@
 "Assets/Resources/Study/LoadImage/ImageLoad.cs"
 "Assets/Resources/Study/MapGenerator/MapGenerator.cs"
 "Assets/Resources/Study/MapGenerator/MeshGenerator.cs"
+"Assets/Resources/Study/TetrisInventory/Script/CanvasController.cs"
+"Assets/Resources/Study/TetrisInventory/Script/Controller.cs"
+"Assets/Resources/Study/TetrisInventory/Script/Inventory.cs"
+"Assets/Resources/Study/TetrisInventory/Script/InventoryBotArea.cs"
+"Assets/Resources/Study/TetrisInventory/Script/InventoryTopArea.cs"
+"Assets/Resources/Study/TetrisInventory/Script/Item.cs"
+"Assets/Resources/Study/TetrisInventory/Script/ItemController.cs"
+"Assets/Resources/Study/TetrisInventory/Script/ItemData.cs"
+"Assets/Resources/Study/TetrisInventory/Script/ItemGrid.cs"
+"Assets/Resources/Study/TetrisInventory/Script/PlayerController.cs"
 "Assets/Resources/Study/TopView/Player.cs"
 -langversion:9.0
 
